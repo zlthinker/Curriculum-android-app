@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Hello World, Curriculum!</string>
+<string name="app_name">Curriculum</string>
+<string name="mon">Monday</string>
+<string name="tue">Tuesday</string>
+<string name="wed">Wednesday</string>
+<string name="thu">Thursday</string>
+<string name="fri">Friday</string>
+<string name="sat">Saturday</string>
+<string name="sun">Sunday</string>
+<string name="c0">Class One</string>
+<string name="c1">Class Two</string>
+<string name="c2">Class Three</string>
+<string name="c3">Class Four</string>
+<string name="c4">Class Five</string>
+<string name="group_insert">Add New Lesson</string>
+<string name="dialog_class">New Lesson</string>
+<string name="dialog_others">Others</string>
+<string name="ok">OK</string>
+<string name="cancel">Cancel</string>
+<string name="none">empty</string>
+<string name="del">Delete</string>
+<string name="insert_suc">Lesson has been added, go back to refresh</string>
+<string name="insert_fail">Adding fails\n\nTips:\nLessons must not be reduplicated.</string>
+<string name="insert_none">Please enter the lesson</string>
+<string name="del_suc">Lesson has been deleted, go back to refresh</string>
+<string name="del_fail">Fail to delete</string>
+<string name="help">Help</string>
+<string name="about">About</string>
+<string name="help_text">Press some class for a while to add lessons。\nPress some lesson for a while to delete it。</string>
+<string name="about_text">This is my first APP.</string>
+</resources>
